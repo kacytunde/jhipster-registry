@@ -31,7 +31,7 @@ public class JHipsterRegistry {
     private Environment env;
 
     /**
-     * Initializes jhipsterRegistry.
+     * Initializes jhipsterRegistry. 
      * <p>
      * Spring profiles can be configured with a program arguments --spring.profiles.active=your-active-profile
      * <p>
